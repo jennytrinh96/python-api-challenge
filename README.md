@@ -16,7 +16,8 @@ It's vacation time! This assingment will demonstrate skills of what I've learned
 
 # Summary and Analysis
 
-1. ![Lat_MaxTemp](output_data/lat_temp.png) - In this scatter plot, it is proven visually any cities furthest away from the equator will have a lower max temperature. Cities closer to the equater will have a greater max temperature. When comparing the linear regression of both northern and southern hemisphere, the relationship between predeiciton and data is strong. The r-value is approximately 0.5. 
+1. In this scatter plot, it is proven visually any cities furthest away from the equator will have a lower max temperature. Cities closer to the equater will have a greater max temperature. When comparing the linear regression of both northern and southern hemisphere, the relationship between predeiciton and data is strong. The r-value is approximately 0.5. 
+![Lat_MaxTemp](output_data/lat_temp.png)
 
 2. Plots comparing Latitudes to wind speed, humidity, and cloudiness have no correlation whatsoever. Its data cannot be forcasted by the linear equation. The r-value for those plots are approximately 0. 
 
